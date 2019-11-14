@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Uma abordagem de Ciência de Dados para identificar Fake News no âmbito político"
-date:   2019-11-14 16:16:01 -0600
+date:   2019-11-14 16:16:12 -0600
 categories: trabalho
 autornick: MarceloHIK
 autor: "Marcelo Hideaki Iwata Kito"
