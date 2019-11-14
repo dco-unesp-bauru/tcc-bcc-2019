@@ -1,7 +1,7 @@
 theme: jekyll-theme-architect
-repository: dco-unesp-bauru/TCCs-BCC-2019
+repository: dco-unesp-bauru/tcc-bcc-2019
 title: [Mostra de TCCs de BCC]
 description: [Mostra de Trab. de Conclusão de Curso em Bach. em Ciência da Computação da Unesp de Bauru (FC) - 2019]
-baseurl: /TCCs-BCC-2019
+baseurl: /tcc-bcc-2019
 gems: ['jekyll-github-metadata']
 google_analytics: UA-92166189-1
