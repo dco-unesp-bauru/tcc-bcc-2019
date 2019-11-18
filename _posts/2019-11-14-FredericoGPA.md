@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Otimização do Layout de Estaleiros: Um Estudo Comparativo"
-date:   2019-11-14 16:16:07 -0600
+date:   2019-11-14 16:16:38 -0600
 categories: trabalho
 autornick: FredericoGPA
 autor: "Frederico Gomes Pires Azzolini"
