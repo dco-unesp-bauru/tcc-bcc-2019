@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Regressão em séries temporais financeiras com RNN: um estudo com milho futuro"
-date:   2019-11-14 16:16:09 -0600
+date:   2019-11-14 16:16:36 -0600
 categories: trabalho
 autornick: GustavoTA
 autor: "Gustavo Trielli Avila"
