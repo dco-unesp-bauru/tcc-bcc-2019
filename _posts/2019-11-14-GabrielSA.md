@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Dispositivo para Adquirir, Apresentar e Guardar os Dados no Veículo do Feb Racing"
-date:   2019-11-14 16:16:17 -0600
+date:   2019-11-14 16:16:37 -0600
 categories: trabalho
 autornick: GabrielSA
 autor: "Gabriel de Souza Alves"
