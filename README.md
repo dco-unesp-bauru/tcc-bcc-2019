@@ -1,7 +1,7 @@
 # TCC-BCC-Bauru-2019
 
 Monografias e Apresentações dos formandos de Ciência da Computação da UNESP
-Bauru do ano de 2019 http://dco-unesp-bauru.github.io/TCCs-BCC-2019
+Bauru do ano de 2019 https://dco-unesp-bauru.github.io/tcc-bcc-2019/
 
 # Contribuição
 
