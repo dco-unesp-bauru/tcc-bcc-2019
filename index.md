@@ -1,4 +1,4 @@
-# Mostra de TCC do BCC 2019
+# Mostra de TCC do BCC 2019 2º semestre
 
 Realizada anualmente, a Motra de TCCs de BCC tem por objetivo inspirar e
 apresentar aos alunos, professores, funcionários e a comunidade (em especial as
